@@ -7,4 +7,4 @@ Note: There are a few downloads available. Firstly you have the Vanilla Save Fil
 
 Image: https://imgur.com/a/15aOpMe
 
-Timelapse: Soon
+Timelapse: https://youtu.be/cOveiD8MRqc
