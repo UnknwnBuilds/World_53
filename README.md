@@ -5,6 +5,6 @@ Mods: Alpha Biomes (https://steamcommunity.com/workshop/filedetails/?id=18413546
 
 Note: There are a few downloads available. Firstly you have the Vanilla Save File, which can be dropped into your vanilla save folder. Then you have save files for the mod Map Saver, which can be dropped in the Map Saver folder within your game files.
 
-Image: 
+Image: https://imgur.com/a/15aOpMe
 
-Timelapse: 
+Timelapse: Soon
